@@ -1,1 +1,1 @@
-# C-project
+Let's practice C language.
